@@ -5,10 +5,10 @@ escribi
 10 lineas
 ya?
 ok
-y
-si
-no
-quiero?
+cambialas
+totalmente
+java
+semicolon
 el simbolo
 coma el simbolo
 el simbolo de la coma
