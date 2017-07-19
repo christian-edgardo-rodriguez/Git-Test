@@ -1,14 +1,14 @@
-asdfghjklñzxcvbnmqwertyuiop
+asdfghjklÃ±zxcvbnmqwertyuiop
 1234567890
 varias lineas
 escribi
 10 lineas
 ya?
 ok
-mas
-mas*2
-c++
-coma
+y
+si
+no
+quiero?
 el simbolo
 coma el simbolo
 el simbolo de la coma
